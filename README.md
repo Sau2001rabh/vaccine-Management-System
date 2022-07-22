@@ -15,5 +15,9 @@
   <li> View data of all beneficiaries </li>
 </ul>
 
+<h2> login details</h2>
+<p> <b>UserName</b>: admin </p>
+<p> <b>password</b>: vaccine2021 </p>
+
 
   
